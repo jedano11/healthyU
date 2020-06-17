@@ -1,2 +1,2 @@
 # healthyU
-A vegan restaurant web sitel
+A vegan restaurant web site
